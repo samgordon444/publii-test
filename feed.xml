@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Sam Gordon Design</title>
-    <link href="https://github.com/samgordon444/publii-test.git/feed.xml" rel="self" />
-    <link href="https://github.com/samgordon444/publii-test.git" />
+    <link href="https://samgordon444.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://samgordon444.github.io/publii-test" />
     <updated>2021-03-28T10:29:44-05:00</updated>
     <author>
         <name>Sam Gordon</name>
     </author>
-    <id>https://github.com/samgordon444/publii-test.git</id>
+    <id>https://samgordon444.github.io/publii-test</id>
 
     <entry>
         <title>Here&#x27;s a header</title>
         <author>
             <name>Sam Gordon</name>
         </author>
-        <link href="https://github.com/samgordon444/publii-test.git/heres-a-header/"/>
-        <id>https://github.com/samgordon444/publii-test.git/heres-a-header/</id>
+        <link href="https://samgordon444.github.io/publii-test/heres-a-header/"/>
+        <id>https://samgordon444.github.io/publii-test/heres-a-header/</id>
 
         <updated>2021-03-28T10:29:44-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/samgordon444/publii-test.git/media/posts/2/rachel.png" alt="" />
+                        <img src="https://samgordon444.github.io/publii-test/media/posts/2/rachel.png" alt="" />
                     And here's the body copy
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/samgordon444/publii-test.git/media/posts/2/rachel.png" alt="" />
+                    <img src="https://samgordon444.github.io/publii-test/media/posts/2/rachel.png" alt="" />
                 <p class="align-left msg--success">And here's the body copy</p>
             ]]>
         </content>

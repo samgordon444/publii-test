@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sam Gordon Design",
     "description": "",
-    "home_page_url": "https://github.com/samgordon444/publii-test.git",
-    "feed_url": "https://github.com/samgordon444/publii-test.git/feed.json",
+    "home_page_url": "https://samgordon444.github.io/publii-test",
+    "feed_url": "https://samgordon444.github.io/publii-test/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sam Gordon"
     },
     "items": [
         {
-            "id": "https://github.com/samgordon444/publii-test.git/heres-a-header/",
-            "url": "https://github.com/samgordon444/publii-test.git/heres-a-header/",
+            "id": "https://samgordon444.github.io/publii-test/heres-a-header/",
+            "url": "https://samgordon444.github.io/publii-test/heres-a-header/",
             "title": "Here&#x27;s a header",
             "summary": "And here's the body copy",
             "content_html": "<p class=\"align-left msg--success\">And here's the body copy</p>",
-            "image": "https://github.com/samgordon444/publii-test.git/media/posts/2/rachel.png",
+            "image": "https://samgordon444.github.io/publii-test/media/posts/2/rachel.png",
             "author": {
                 "name": "Sam Gordon"
             },
