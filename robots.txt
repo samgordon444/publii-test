@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://samgordon444.github.io/publii-test/sitemap.xml
